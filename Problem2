@@ -1,1 +1,31 @@
 Her network printer, which was previously connected and accessible, is no longer showing up in the list of available printers.
+
+There are a few things you can do to fix connection issues between you device and the printer.
+
+
+ ##Perform ping command on your PC to see if ti can detect the printer on the network.
+- Run a ping command to try to detaect the printer on the network. 
+- Find IP address of you printer
+- Type CMD to access the command prompt.
+- In command prompt type "ping" and the IP address of the printer
+
+## Turn printer on and off. 
+- Very simple and obvious action ot take but often overlooked 
+
+## Add your printer to the Device and Printers
+ PC can only detect your printer if you added it to you Device and Printers.
+
+- Access control panel
+- Select Hardware & Sound
+- Select Device and Printers
+- Select Add a printer
+- Add printer
+- If it cannot find printer select The printer that I want isn't listed
+- Select shared printer by name
+
+The PC should connect to the printer that you added and should be visible on your PC.
+
+[Link](https://www.drivereasy.com/knowledge/fixed-network-printer-not-showing-up-windows-10-11/)
+
+
+
